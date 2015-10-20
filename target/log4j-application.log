@@ -1,0 +1,188 @@
+2015-10-20 14:43:24 main INFO  TestOutboundCall:57 - Starting logger
+2015-10-20 14:45:05 main INFO  TestOutboundCall:56 - Starting logger
+2015-10-20 14:53:31 main INFO  TestOutboundCall:56 - Starting logger
+2015-10-20 14:54:10 main INFO  TestOutboundCall:56 - Starting logger
+2015-10-20 14:57:54 main INFO  TestOutboundCall:56 - Starting logger
+2015-10-20 15:12:30 main INFO  TestOutboundCall:58 - Starting logger
+2015-10-20 15:13:02 main INFO  TestOutboundCall:58 - Starting logger
+2015-10-20 15:14:33 main INFO  TestOutboundCall:58 - Starting logger
+2015-10-20 15:14:39 main INFO  TestOutboundCall:76 - {
+  "api_id": "9c5d1eaa-770e-11e5-9e07-22000afb0fc5",
+  "message": "call fired",
+  "request_uuid": "24939289-ca4a-48ee-a629-00141496aa5d"
+}
+2015-10-20 15:14:39 main INFO  TestOutboundCall:77 - 201
+2015-10-20 15:50:52 main INFO  TestOutboundCall:59 - Starting logger
+2015-10-20 15:50:58 main INFO  TestOutboundCall:75 - {
+  "api_id": "b04e5d40-7713-11e5-96dd-22000a90043a",
+  "message": "call fired",
+  "request_uuid": "1c5b861c-3e8a-476d-958a-1de079661b0f"
+}
+2015-10-20 15:56:44 main INFO  TestOutboundCall:59 - Starting logger
+2015-10-20 15:56:50 main INFO  TestOutboundCall:75 - {
+  "api_id": "82216994-7714-11e5-82ac-22000afc235b",
+  "message": "call fired",
+  "request_uuid": "682b53fd-d29f-43e2-828a-8b51315d180e"
+}
+2015-10-20 15:57:35 main INFO  TestOutboundCall:59 - Starting logger
+2015-10-20 15:57:40 main INFO  TestOutboundCall:75 - {
+  "api_id": "9f82737e-7714-11e5-9e0d-22000afb0fc5",
+  "message": "call fired",
+  "request_uuid": "3adcb0bf-d44c-40a9-9fb9-a931a4e39e48"
+}
+2015-10-20 16:08:25 main INFO  TestOutboundCall:59 - Starting logger
+2015-10-20 16:08:31 main INFO  TestOutboundCall:75 - {
+  "api_id": "22d2cfc6-7716-11e5-82ad-22000afc235b",
+  "message": "call fired",
+  "request_uuid": "dc808e78-0e29-4c73-88c6-5976efe8eef8"
+}
+2015-10-20 16:09:30 main INFO  TestOutboundCall:59 - Starting logger
+2015-10-20 16:09:37 main INFO  TestOutboundCall:75 - {
+  "api_id": "4b40b96c-7716-11e5-a8fd-22000ae309fc",
+  "message": "call fired",
+  "request_uuid": "a2cd6803-0c1f-439e-8f2f-bda9de533a0a"
+}
+2015-10-20 16:16:34 main INFO  TestOutboundCall:59 - Starting logger
+2015-10-20 16:16:42 main INFO  TestOutboundCall:75 - {
+  "api_id": "47fd6e80-7717-11e5-a8fd-22000ae309fc",
+  "message": "call fired",
+  "request_uuid": "1d5986b7-c6e9-49a0-a20b-ac79da6318a7"
+}
+2015-10-20 16:18:14 main INFO  TestOutboundCall:59 - Starting logger
+2015-10-20 16:18:21 main INFO  TestOutboundCall:75 - {
+  "api_id": "8301bf44-7717-11e5-a8fd-22000ae309fc",
+  "message": "call fired",
+  "request_uuid": "008edc8a-6271-4aac-86d5-c9952dacc35e"
+}
+2015-10-20 16:24:28 main INFO  TestOutboundCall:59 - Starting logger
+2015-10-20 16:24:34 main INFO  TestOutboundCall:75 - {
+  "api_id": "61eb3364-7718-11e5-82ad-22000afc235b",
+  "message": "call fired",
+  "request_uuid": "9898bb09-44d0-47ec-94af-b1715b8d0e76"
+}
+2015-10-20 16:26:08 main INFO  TestOutboundCall:59 - Starting logger
+2015-10-20 16:26:14 main INFO  TestOutboundCall:75 - {
+  "api_id": "9cf38840-7718-11e5-9e10-22000afb0fc5",
+  "message": "call fired",
+  "request_uuid": "0f90bc0e-2bd5-4882-8442-dedffd60d387"
+}
+2015-10-20 17:04:33 main INFO  TestOutboundCall:59 - Starting logger
+2015-10-20 17:04:39 main INFO  TestOutboundCall:75 - {
+  "api_id": "fb6dc124-771d-11e5-96ed-22000a90043a",
+  "message": "call fired",
+  "request_uuid": "4e6ae6e6-c923-4c00-be21-7d482dbb3b5a"
+}
+2015-10-20 17:06:48 main INFO  TestOutboundCall:59 - Starting logger
+2015-10-20 17:06:54 main INFO  TestOutboundCall:75 - {
+  "api_id": "4b57cc1a-771e-11e5-9e14-22000afb0fc5",
+  "message": "call fired",
+  "request_uuid": "b2777b4e-45f7-48eb-9b41-41d29a708930"
+}
+2015-10-20 17:11:29 main INFO  TestOutboundCall:59 - Starting logger
+2015-10-20 17:11:37 main INFO  TestOutboundCall:75 - {
+  "api_id": "f3f9ce01-771e-11e5-96ef-22000a90043a",
+  "message": "call fired",
+  "request_uuid": "4bffbe33-5e7f-46b7-b4e8-ec9fbaf89bdc"
+}
+2015-10-20 17:14:17 main INFO  TestOutboundCall:59 - Starting logger
+2015-10-20 17:14:23 main INFO  TestOutboundCall:75 - {
+  "api_id": "579f4764-771f-11e5-899b-22000af98256",
+  "message": "call fired",
+  "request_uuid": "92d47445-70ca-4977-b09b-278653932fb3"
+}
+2015-10-20 17:16:14 main INFO  TestOutboundCall:59 - Starting logger
+2015-10-20 17:16:20 main INFO  TestOutboundCall:75 - {
+  "api_id": "9d3945eb-771f-11e5-96f0-22000a90043a",
+  "message": "call fired",
+  "request_uuid": "e54c69c8-d2b6-415f-88f5-b955ec21d6a6"
+}
+2015-10-20 17:25:16 main INFO  TestOutboundCall:59 - Starting logger
+2015-10-20 17:25:24 main INFO  TestOutboundCall:75 - {
+  "api_id": "e0630aff-7720-11e5-96f1-22000a90043a",
+  "message": "call fired",
+  "request_uuid": "f8f444ed-de6b-4d04-b50c-ffa9592d752a"
+}
+2015-10-20 17:28:59 main INFO  TestOutboundCall:59 - Starting logger
+2015-10-20 17:29:05 main INFO  TestOutboundCall:75 - {
+  "api_id": "650c10de-7721-11e5-9e14-22000afb0fc5",
+  "message": "call fired",
+  "request_uuid": "88c6540d-f8e3-4bd1-90e9-768043c42534"
+}
+2015-10-20 17:31:09 main INFO  TestOutboundCall:59 - Starting logger
+2015-10-20 17:31:15 main INFO  TestOutboundCall:75 - {
+  "api_id": "b22900d4-7721-11e5-899e-22000af98256",
+  "message": "call fired",
+  "request_uuid": "38f45053-d7a7-41ec-b1ce-64be888399f5"
+}
+2015-10-20 17:35:33 main INFO  TestOutboundCall:59 - Starting logger
+2015-10-20 17:35:41 main INFO  TestOutboundCall:75 - {
+  "api_id": "50a648b0-7722-11e5-a909-22000ae309fc",
+  "message": "call fired",
+  "request_uuid": "61e40076-db79-480e-997f-296fd3b23a2c"
+}
+2015-10-20 17:38:29 main INFO  TestOutboundCall:59 - Starting logger
+2015-10-20 17:38:35 main INFO  TestOutboundCall:75 - {
+  "api_id": "b868ba7d-7722-11e5-89a0-22000af98256",
+  "message": "call fired",
+  "request_uuid": "a31dc67f-885f-462d-9141-73a8f9c1af55"
+}
+2015-10-20 17:44:57 main INFO  TestOutboundCall:59 - Starting logger
+2015-10-20 17:45:03 main INFO  TestOutboundCall:75 - {
+  "api_id": "a0379a88-7723-11e5-a90a-22000ae309fc",
+  "message": "call fired",
+  "request_uuid": "6fff96a0-d16b-4dbe-8026-735dda074882"
+}
+2015-10-20 17:51:17 main INFO  TestOutboundCall:59 - Starting logger
+2015-10-20 17:51:22 main INFO  TestOutboundCall:75 - {
+  "api_id": "818ed802-7724-11e5-82b5-22000afc235b",
+  "message": "call fired",
+  "request_uuid": "c24d0cc9-c39a-4206-8fa1-01b2a5164bb2"
+}
+2015-10-20 18:00:19 main INFO  TestOutboundCall:59 - Starting logger
+2015-10-20 18:00:25 main INFO  TestOutboundCall:75 - {
+  "api_id": "c5d7d86b-7725-11e5-96f6-22000a90043a",
+  "message": "call fired",
+  "request_uuid": "57908349-97d5-4122-a831-1e5ac4adf322"
+}
+2015-10-20 18:35:33 main INFO  TestOutboundCall:59 - Starting logger
+2015-10-20 18:35:38 main INFO  TestOutboundCall:75 - {
+  "api_id": "b1425a4d-772a-11e5-9e1b-22000afb0fc5",
+  "message": "call fired",
+  "request_uuid": "babdb140-269a-458f-8b6c-c76e62000e77"
+}
+2015-10-20 20:40:49 main INFO  TestOutboundCall:59 - Starting logger
+2015-10-20 20:40:55 main INFO  TestOutboundCall:75 - {
+  "api_id": "31b3fd73-773c-11e5-970e-22000a90043a",
+  "message": "call fired",
+  "request_uuid": "8a3c4b7d-3d7f-4b9f-a134-8d8f72950f61"
+}
+2015-10-20 20:43:20 main INFO  TestOutboundCall:59 - Starting logger
+2015-10-20 20:43:26 main INFO  TestOutboundCall:75 - {
+  "api_id": "8bbb0fbe-773c-11e5-9e2e-22000afb0fc5",
+  "message": "call fired",
+  "request_uuid": "17039e1f-197c-470a-a24a-c3a9efa28540"
+}
+2015-10-20 20:46:57 main INFO  TestOutboundCall:59 - Starting logger
+2015-10-20 20:47:02 main INFO  TestOutboundCall:75 - {
+  "api_id": "0c819b58-773d-11e5-82c6-22000afc235b",
+  "message": "call fired",
+  "request_uuid": "1328af99-fed2-4f6a-9f6c-e49b95812e0f"
+}
+2015-10-20 20:56:01 main INFO  TestOutboundCall:59 - Starting logger
+2015-10-20 20:56:06 main INFO  TestOutboundCall:75 - {
+  "api_id": "5017c866-773e-11e5-a91e-22000ae309fc",
+  "message": "call fired",
+  "request_uuid": "90753ae0-270f-4b8d-991a-43c9ec717eb3"
+}
+2015-10-20 20:57:06 main INFO  TestOutboundCall:59 - Starting logger
+2015-10-20 20:57:13 main INFO  TestOutboundCall:75 - {
+  "api_id": "78081a17-773e-11e5-9712-22000a90043a",
+  "message": "call fired",
+  "request_uuid": "eadd809a-73d3-4a48-93cd-7866fd0ad635"
+}
+2015-10-20 20:57:34 main INFO  TestOutboundCall:59 - Starting logger
+2015-10-20 20:57:39 main INFO  TestOutboundCall:75 - {
+  "api_id": "878d11a6-773e-11e5-9712-22000a90043a",
+  "message": "call fired",
+  "request_uuid": "9a700bb5-62b7-49fa-b138-843e28047fa1"
+}
